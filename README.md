@@ -1,2 +1,2 @@
 # AWS-Cloud
-This repository includes the codebases for AWS cloud, solutions architect.
+This repository includes the codebases for AWS Cloud and Solutions Architect.
